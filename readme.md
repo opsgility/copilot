@@ -7,13 +7,15 @@
 
 ### Available Content 
 
-#### Explore Microsoft 365 Copilot Chat
-
-- Estimated Time: 30 to 45 minutes
+#### Course Option 1: Explore Microsoft 365 Copilot Chat
+- Requires Microsoft 365 Copilot License
+- Estimated Time: 60 to 75 minutes
 - [Instructions](/CopilotChat/instructions.md)
 
 
-#### Craft effective prompts for Microsoft 365 Copilot 
+#### Course Option 2: Craft effective prompts for Microsoft 365 Copilot 
+
+- Requires Microsoft 365 Copilot License
 
 ##### Lesson 1: Get started with Microsoft 365 Copilot
 
