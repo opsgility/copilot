@@ -10,8 +10,7 @@
 #### Explore Microsoft 365 Copilot Chat
 
 - Estimated Time: 30 to 45 minutes
-
-[Explore Microsoft 365 Copilot Chat](/CopilotChat/instructions.md)
+- [Instructions](/CopilotChat/instructions.md)
 
 
 #### Craft effective prompts for Microsoft 365 Copilot 
