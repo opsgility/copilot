@@ -12,8 +12,6 @@ The tasks in this lesson will guide you on how to navigate and prompt in Microso
 
 ## Before you start
 
-Before you can start this lesson, you'll need to log into your virtual machine and launch the Microsoft 365 Copilot Chat web app. Follow the steps below to get started: 
-
 1. Launch a browser and navigate to 'https://m365copilot.com` in the address bar and a dialogue box will prompt you to sign in.
    
 1. At the **Sign-in Prompt**, enter your work email.
