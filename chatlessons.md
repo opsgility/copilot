@@ -1,9 +1,3 @@
-# Microsoft 365 Copilot Workshop Material 
-
-## Bring your own subscription *BYOS* 
-
-![](/media/ops-header.png)
-
 
 ### Available Content 
 
