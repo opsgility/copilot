@@ -13,10 +13,10 @@
 - [Instructions](/CopilotChat/instructions.md)
 
 
-# Course Option 1: Explore Microsoft 365 Copilot Chat
+## Course Option 1: Explore Microsoft 365 Copilot Chat
 
-[](chatlessons.md)
+[Explore Microsoft 365 Copilot Chat](chatlessons.md)
 
 ## Course Option 2: Craft effective prompts for Microsoft 365 Copilot 
 
-[](promptingwihtofficelessons.md)
+[Craft effective prompts for Microsoft 365 Copilot ](promptingwihtofficelessons.md)
