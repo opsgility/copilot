@@ -19,4 +19,4 @@
 
 ## Course Option 2: Craft effective prompts for Microsoft 365 Copilot 
 
-[Craft effective prompts for Microsoft 365 Copilot ](promptingwihtofficelessons.md)
+[Craft effective prompts for Microsoft 365 Copilot ](promptingwithofficelessons.md)
