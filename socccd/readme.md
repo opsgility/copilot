@@ -112,7 +112,7 @@ Try each prompt in order to see how the prompt evolves with more specificity.
 #### 🖼️ Image Prompt:
 
 ```plaintext
-Create an image for a university strategic plan cover: diverse students, modern campus, symbols of innovation and inclusion.
+Create an image for a university strategic plan cover: students, modern campus, and symbols of innovation.
 ```
 
 
