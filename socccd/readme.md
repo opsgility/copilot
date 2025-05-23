@@ -17,7 +17,11 @@ Download the following and unzip to your computers desktop (or another convienen
 
 ## Exercise 1: Executive Summary Optimization
 
-1. Launch a browser and navigate to 'https://m365copilot.com` in the address bar and a dialogue box will prompt you to sign in.
+1. Launch a browser and navigate to the Microsoft Copilot URL below in the address bar and a dialogue box will prompt you to sign in.
+
+```
+https://m365copilot.com
+```
 
 ### Task: Summarize a report
 
