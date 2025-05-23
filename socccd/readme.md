@@ -3,7 +3,7 @@
 
 **Audience**: South Orange County Community College District (SOCCCD) Administrators  
 **Skill Level**: Intermediate  
-**Tools Required**: Microsoft Copilot, ChatGPT, or similar GenAI platform with image support
+**Tools Required**: Microsoft Copilot
 
 ## Preparing 
 
@@ -13,7 +13,11 @@ Download the following and unzip to your computers desktop (or another convienen
 
 [Download Here](https://github.com/opsgility/copilot/raw/refs/heads/main/socccd/sample-data.zip) 
 
+
+
 ## Exercise 1: Executive Summary Optimization
+
+1. Launch a browser and navigate to 'https://m365copilot.com` in the address bar and a dialogue box will prompt you to sign in.
 
 ### Task: Summarize a report
 
