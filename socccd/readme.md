@@ -27,7 +27,7 @@ https://m365copilot.com
 
 #### 📄 Attach the following file: `SOCCCD_EnrollmentTrends2024.txt` prior to submitting the prompts
 
-![Attach File](https://github.com/opsgility/copilot/tree/main/media/attach-file)
+![Attach File](https://github.com/opsgility/copilot/blob/main/media/attach-file.png?raw=true)
 
 #### Prompt Progression:
 
