@@ -5,7 +5,13 @@
 **Skill Level**: Intermediate  
 **Tools Required**: Microsoft Copilot
 
-## Exercise 1: Escape Room
+```
+
+
+## Escape Room Exercise 
+
+
+### Exercise 1: Escape Room
 
 1. Launch a browser and navigate to the Microsoft Copilot URL below in the address bar and a dialogue box will prompt you to sign in.
 
@@ -20,17 +26,11 @@ Turn the attached documentation into an “escape the room” challenge where we
 
 /https://learn.microsoft.com/en-us/training/modules/empower-educators-explore-potential-artificial-intelligence/introduction-ai 
 
-```
-
-
-## Escape Room Exercise 
-
-
 
 
 ## Prompt Writing for Mortals
 
-## Preparing 
+### Preparing 
 
 The following exercises use sample data files with Microsoft Copilot. 
 
@@ -40,7 +40,7 @@ Download the following and unzip to your computers desktop (or another convienen
 
 
 
-## Exercise 1: Executive Summary Optimization
+### Exercise 1: Executive Summary Optimization
 
 1. Launch a browser and navigate to the Microsoft Copilot URL below in the address bar and a dialogue box will prompt you to sign in.
 
@@ -78,9 +78,9 @@ Try each prompt in order to see how the prompt evolves with more specificity.
 
 ---
 
-## Exercise 2: Drafting Policy and Memos
+### Exercise 2: Drafting Policy and Memos
 
-### Task: Create an internal announcement
+#### Task: Create an internal announcement
 
 
 #### Prompt Progression:
@@ -108,9 +108,9 @@ Try each prompt in order to see how the prompt evolves with more specificity.
 
 
 
-## Exercise 3: Vision Statement and Strategic Plan
+### Exercise 3: Vision Statement and Strategic Plan
 
-### Task: Create a strategic vision statement
+#### Task: Create a strategic vision statement
 
 #### Prompt Progression:
 
@@ -141,9 +141,9 @@ Create an image for a university strategic plan cover: students, modern campus, 
 ```
 
 
-## Exercise 4: Reviewing Proposals
+### Exercise 4: Reviewing Proposals
 
-### Task: Review a grant proposal
+#### Task: Review a grant proposal
 
 #### 📄 Attach the folloing sample file: `SOCCCD_FacultyGrantProposal.docx`
 > Contains: 2-page draft faculty grant proposal
@@ -172,9 +172,9 @@ Try each prompt in order to see how the prompt evolves with more specificity.
 
 ---
 
-## Exercise 5: Faculty and Student Communications
+### Exercise 5: Faculty and Student Communications
 
-### Task: Email announcement about new LMS
+#### Task: Email announcement about new LMS
 
 #### Prompt Progression:
 
@@ -205,9 +205,9 @@ Generate an infographic banner for a faculty LMS training email. Include icons f
 ```
 
 
-## Exercise 6: Event Planning and Promotion
+### Exercise 6: Event Planning and Promotion
 
-### Task: Leadership retreat planning
+#### Task: Leadership retreat planning
 
 #### Prompt Progression:
 
@@ -235,9 +235,9 @@ Design a flyer image for a university leadership retreat with collaboration, nat
 ```
 
 
-## Exercise 7: Budget Summary and Visualization
+### Exercise 7: Budget Summary and Visualization
 
-### Task: Analyze and visualize budget data
+#### Task: Analyze and visualize budget data
 
 #### 📄 Attach the following sample file: `SOCCCD_Budget2023to2024.xlsx`
 
@@ -270,12 +270,4 @@ Try each prompt in order to see how the prompt evolves with more specificity.
 ```plaintext
 Create a bar chart comparing SOCCCD departmental budgets from 2023 to 2024 with clear labels and color-coding.
 ```
-
-<!-- 
-## ✅ Wrap-Up Prompt Builder
-
-**[Who]** As a [role] at [institution]  
-**[What]** Do [task] about [topic]  
-**[Why]** With [audience], [goal], [tone], [format]
--->
 
