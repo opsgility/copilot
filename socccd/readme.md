@@ -23,8 +23,8 @@ https://m365copilot.com
 ```
 Turn the attached documentation into an “escape the room” challenge where we compete to solve each puzzle or problem. The attached document will provide ideas, and you will use your abilities to challenge me, but also assist me if I get stuck. Don’t show the other rooms until I’ve escape them, so one at a time. Describe any equipment or rooms with enough detail that I can interact with them given that I am not in the room physically. Ensure the problem requires deep thinking skills, not just pressing buttons. Only give hints if requested. Keep responses simple and straightforward. Let’s see who escapes first!
 
-/https://learn.microsoft.com/en-us/training/modules/empower-educators-explore-potential-artificial-intelligence/introduction-ai 
-
+https://learn.microsoft.com/en-us/training/modules/empower-educators-explore-potential-artificial-intelligence/introduction-ai 
+```
 
 
 ## Prompt Writing for Mortals
