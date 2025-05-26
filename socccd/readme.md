@@ -5,7 +5,6 @@
 **Skill Level**: Intermediate  
 **Tools Required**: Microsoft Copilot
 
-```
 
 
 ## Escape Room Exercise 
