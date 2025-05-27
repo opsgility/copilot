@@ -25,289 +25,266 @@ By the end of this lesson, you'll be able to:
 1. Rewrite messages with Coaching by Copilot in New Outlook.
 
 
+### Exercise 1: Write, organize, and transform content using Microsoft 365 Copilot in Word
 
-
-# Write, organize, and transform content using Microsoft 365 Copilot in Word
+In this exercise, you'll use Microsoft 365 Copilot in Word to transform plain text into a structured table that clearly communicates employee benefits. You'll learn to write prompts that specify your transformation goal, document source, and formatting expectations—enabling Copilot to reorganize content in a clear, reader-friendly way.
 
 Microsoft 365 Copilot in Word allows you to stay in the flow of ideas while drafting new content and transform your content once you have your ideas written. Copilot can rewrite your text, including adjustments for tone. Copilot can also transform your text into an editable table. Follow the steps to transform your content in Word:
 
-## Rewrite for tone
 
-1. Select the text you want Copilot to rewrite.
+1. In Word, open the **Graphic Design Institute - Employee Benefits.docx** document located in the **OneDrive\\CopilotDocs\\M03-Edit-transform-content-with-microsoft-copilot-microsoft-365** folder. 
 
-1. In the left margin next to your text, select the **Copilot icon**.
+1. Highlight all the text in the document (press **Ctrl-A**). Scroll down and click the Copilot menu on the left margin. Select **Visualize as a table**. 
 
-1. From the left margin Copilot menu, select **Rewrite**.
 
-1. Copilot shows you rewritten options to choose from.
+1. After generating the table, follow up with Copilot using the prompts below to refine your results.
 
-1. Select **Replace** to use the revised text, **Insert below** to insert the rewritten text below the current text, **Regenerate** to regenerate Copilot's suggestions, or **Adjust tone** to adjust the rewritten text for desired tone.
+ 
+    Enter the below prompt:
 
-    ![Screenshot of Copilot in Word with rewrite text suggestions and options.](https://labstoragesupport.blob.core.windows.net/lessoncontent/ms-4005-ai-led/media/edit_copilot-rewrite-word.png)
+    ```
+    Visualize as a table.
+    ```
 
-## Text to table
+    In this simple prompt, you start with the basic **Goal**: _to transform text into a table._ However, there's no indication what information you want in the table or why it should be a table.
 
-1. Select the text you want Copilot to turn into a table.
+    ![Screenshot the Copilot in Word working on transforming text to table.](media/edit_copilot-visualize-table-word-example.png)
 
-1. In the left margin next to your text, select the **Copilot** icon.
+    Begin with a basic prompt by stating your goal clearly.
+    For example: 
 
-1. From the left margin Copilot menu, select **Visualize as a table**.
+    ```
+    Visualize this information as a table.
+    ```
 
-1. Copilot shows you what the table looks like.
+    To make it a good prompt, add context to help Copilot understand what kind of data it's working with and the purpose behind it.
+    You might say: 
 
-1. Select **Keep it** to insert the table into your document, **Regenerate** to regenerate Copilot's table, or **Discard** to remove the table.
+    ```
+    We need a clear way to communicate these benefits to potential employees.
+    ```
 
-1. To fine tune the table, enter details into the Copilot compose box to state what to change about the table.
+    To improve the prompt further, identify the source Copilot should use to build the table.
+    For instance: 
 
-    1. Changing a table's formatting isn't supported using the compose box, but the table's formatting can be changed by using the table options in the Word ribbon.
+    ```
+    Use the full content of the document titled Graphic Design Institute - Employee Benefits.docx.
+    ```
 
-    ![Screenshot of Copilot in Word showing the text to table capability.](https://labstoragesupport.blob.core.windows.net/lessoncontent/ms-4005-ai-led/media/edit_copilot-visualize-table-word.png)
+    Finally, to create the best prompt, provide expectations for how the table should be organized and what it should include.
+    You could say: 
 
-In the following example, we start with a simple prompt to turn some text into a table and add elements along the way. Follow along with the example using your own data.
+    ```
+    Include a third column that explains each benefit in simple terms and describes how it supports employee wellbeing.
+    ```
 
-## Let's get crafting
+    Enter the below crafted prompt:
 
-<!-- First, download **_[Graphic Design Institute - Employee Benefits.docx](https://go.microsoft.com/fwlink/?linkid=2268825)_** and save the file to your **OneDrive folder** if you haven't yet done so. -->
+    ```
+    Visualize as a table. We need a clear way to communicate these benefits to potential employees. Include a third column that clearly describes the benefit to the employee and how it impacts their wellbeing.
+    ```
 
-In Word, open the **Graphic Design Institute - Employee Benefits.docx** document located in the **OneDrive\\CopilotDocs\\M03-Edit-transform-content-with-microsoft-copilot-microsoft-365** folder. 
+    ![Screenshot the crafted prompt results against the sample document using Copilot in Word.](media/edit_copilot-visualize-table-word-results.png)
 
-Highlight all the text in the document (press **Ctrl-A**). Scroll down and click the Copilot menu on the left margin. Select **Visualize as a table**. 
+    This prompt gives Copilot everything it needs to come up with a good answer, including the **Goal**, **Context**, **Source**, and **Expectations**.
 
-![Visualize as a table](https://labstoragesupport.blob.core.windows.net/lessoncontent/ms-4005-ai-led/media/VisualizeAsTable.png)
+    >**Note:** This feature is available to customers with a Microsoft 365 Copilot license or Copilot Pro license. For more information, see [Transform your content with Copilot in Word](https://support.microsoft.com/office/transform-your-content-with-copilot-in-word-923d9763-f896-4da7-8a3f-5b12c3bfc475).
 
-After generating the table, follow up with Copilot using the prompts below to refine your results.
 
-![Visualize as a table Continued](https://labstoragesupport.blob.core.windows.net/lessoncontent/ms-4005-ai-led/media/VisualizeAsTable2.png)
 
-Enter the below prompt:
+### Exercise 2: Add images, slides, and organize your presentation using Microsoft 365 Copilot in PowerPoint
 
-```
-Visualize as a table.
-```
+In this exercise, you'll use Microsoft 365 Copilot in PowerPoint to expand and organize a slide deck with relevant visual content. You'll practice refining prompts that define the slide’s purpose, pull insights from source slides, and format the output using concise, audience-focused design principles.
 
-In this simple prompt, you start with the basic **Goal**: _to transform text into a table._ However, there's no indication what information you want in the table or why it should be a table.
 
-![Screenshot the Copilot in Word working on transforming text to table.](https://labstoragesupport.blob.core.windows.net/lessoncontent/ms-4005-ai-led/media/edit_copilot-visualize-table-word-example.png)
+1.. In PowerPoint, open the **Mystic Spice Premium Chai Market Analysis Presentation.pptx** presentation located in the **OneDrive\\CopilotDocs\\M03-Edit-transform-content-with-microsoft-copilot-microsoft-365** folder. 
 
-| Element | Example |
-| :------ | :------- |
-| **Basic prompt:** Start with a **Goal** | **_Visualize as a table._** |
-| **Good prompt:** Add **Context** | Adding **Context** can help Copilot understand what kind of data to see and what it will be used for. _"We need a clear way to communicate these benefits to potential employees."_ |
-| **Better prompt:** Specify **Source(s)** | The **Source** in this example is the entire text of **Graphic Design Institute - Employee Benefits.docx**. |
-| **Best prompt:** Set clear **Expectations** | Lastly, adding **Expectations** can help Copilot understand how you want the table organized and written. _"Include a third column that clearly describes the benefit to the employee and how it impacts their wellbeing."_ |
+1. Open the **Copilot** pane by selecting the Copilot icon in the ribbon's **Home** tab. Enter the prompts below and follow along.
 
-Enter the below crafted prompt:
+    Enter the below prompt:
 
-```
-Visualize as a table. We need a clear way to communicate these benefits to potential employees. Include a third column that clearly describes the benefit to the employee and how it impacts their wellbeing.
-```
+    ```
+    Add new slides to this PowerPoint presentation.
+    ```
 
-![Screenshot the crafted prompt results against the sample document using Copilot in Word.](https://labstoragesupport.blob.core.windows.net/lessoncontent/ms-4005-ai-led/media/edit_copilot-visualize-table-word-results.png)
+    In this simple prompt, you start with the basic **Goal**: _to add new slides to a presentation_. However, there's no indication how many slides you want to add or even what topic they should cover.
 
-This prompt gives Copilot everything it needs to come up with a good answer, including the **Goal**, **Context**, **Source**, and **Expectations**.
 
->**Note:** This feature is available to customers with a Microsoft 365 Copilot license or Copilot Pro license. For more information, see [Transform your content with Copilot in Word](https://support.microsoft.com/office/transform-your-content-with-copilot-in-word-923d9763-f896-4da7-8a3f-5b12c3bfc475).
+    Start with a basic prompt by clearly stating your goal.
+    For example: 
 
-# Add images, slides, and organize your presentation using Microsoft 365 Copilot in PowerPoint
+    ```
+    Add a new slide to the PowerPoint presentation.
+    ```
 
-Suppose you want to add a slide to a deck on the history of soccer.  Ask Copilot in PowerPoint to “**_Add a slide about the history of Women’s Olympic Soccer_**” and it creates that slide for you.
+    To make it a good prompt, include context that helps Copilot understand the purpose of the slide and the content it should focus on.
+    You might say: 
 
-![Screenshot of Copilot in PowerPoint compose box with a prompt entered.](https://labstoragesupport.blob.core.windows.net/lessoncontent/ms-4005-ai-led/media/edit_copilot-add-slides-powerpoint.png)
+    ```
+    Add a slide summarizing the latest market trends for premium chai, including key consumer preferences and emerging competitors.
+    ```
 
-Copilot can also step in to make what you have even better. Maybe you're teaching a cooking class and need some slides about making pizza, but it could use some images.  Ask Copilot to “**_Add an image of a chef making pizza dough_**” and Copilot will find the perfect image to make your slide more appealing.
+    To strengthen the prompt, point Copilot to a specific source for information.
+    For instance: 
 
-Give it a try with the following prompts and see what Copilot can come up with for you.
+    ```
+    Use insights from the existing slides on market trends and demand.
+    ```
 
-## Let's get crafting
+    To create the best prompt, set clear expectations for how the slide should be formatted and written.
+    You could say: 
 
-<!-- First, download and open **_[Mystic Spice Premium Chai Market Analysis Presentation.pptx](https://go.microsoft.com/fwlink/?linkid=2268768)_**. Save the file to your **OneDrive folder** if you haven't yet done so. -->
+    ```
+    Format the slide with engaging visuals and use concise bullet points to highlight key takeaways.
+    ```
 
-In PowerPoint, open the **Mystic Spice Premium Chai Market Analysis Presentation.pptx** presentation located in the **OneDrive\\CopilotDocs\\M03-Edit-transform-content-with-microsoft-copilot-microsoft-365** folder. Open the **Copilot** pane by selecting the Copilot icon in the ribbon's **Home** tab. Enter the prompts below and follow along.
+    Enter the below crafted prompt:
 
-Enter the below prompt:
+    ```
+    Add a new slide to the PowerPoint presentation summarizing the latest market trends for premium chai, including key consumer preferences and emerging competitors. Use insights from the existing slides on market trends and demand. Format the slide with engaging visuals and concise bullet points for key takeaways.
+    ```
 
-```
-Add new slides to this PowerPoint presentation.
-```
+    With the **Goal**, **Context**, **Source**, and **Expectations** all laid out, Copilot has all it needs to give you a great response.
 
-In this simple prompt, you start with the basic **Goal**: _to add new slides to a presentation_. However, there's no indication how many slides you want to add or even what topic they should cover.
 
-| Element | Example |
-| :------ | :------- |
-| **Basic prompt:** Start with a **Goal** | **_Add a new slide to the PowerPoint presentation._** |
-| **Good prompt:** Add **Context** | Adding **Context** can help Copilot understand what the slides are for and what topic to focus on. _"...summarizing the latest market trends for premium chai, including key consumer preferences and emerging competitors."_ |
-| **Better prompt:** Specify **Source(s)** | Adding **Sources** can help Copilot know where to look for specific information. _"Use insights from the existing slides on market trends and demand."_ |
-| **Best prompt:** Set clear **Expectations** | Lastly, adding **Expectations** can help Copilot understand how you want the slide organized and written. _"Format the slide with engaging visuals and concise bullet points for key takeaways."_ |
+### Exercise 3: Format, sort, filter, and highlight data using Microsoft 365 Copilot in Excel
 
-Enter the below crafted prompt:
+In this exercise, you'll use Microsoft 365 Copilot in Excel to sort and highlight key performance data from a campaign spreadsheet. You'll learn to build prompts that combine goals, context, source tables, and formatting expectations—guiding Copilot to execute multi-step actions like filtering and spotlighting top performers.
 
-```
-Add a new slide to the PowerPoint presentation summarizing the latest market trends for premium chai, including key consumer preferences and emerging competitors. Use insights from the existing slides on market trends and demand. Format the slide with engaging visuals and concise bullet points for key takeaways.
-```
+1. In Excel, open the **Fabrikam Q1 marketing campaigns.xlsx** spreadsheet located in the **OneDrive\\CopilotDocs\\M03-Edit-transform-content-with-microsoft-copilot-microsoft-365** folder. 
 
-With the **Goal**, **Context**, **Source**, and **Expectations** all laid out, Copilot has all it needs to give you a great response.
+1. Open the **Copilot** pane by selecting the Copilot icon in the ribbon's **Home** tab. Enter the prompts below and follow along.
 
-# Format, sort, filter, and highlight data using Microsoft 365 Copilot in Excel
+    In this simple prompt, you start with the basic **Goal**: _to sort and filter an Excel table_. However, there's no indication how you want the data sorted and which field you want to filter.
 
-With Microsoft 365 Copilot in Excel, it's easy to highlight, sort, and filter your tables to quickly call attention to what matters to you. Using a single table in Excel, you can have Copilot effortlessly:
+    Start with a basic prompt by stating your goal clearly.
+    For example: 
 
-- Sort and filter your data.
+    ```
+    Sort this table.
+    ```
 
-- Apply simple conditional formatting.
+    To make it a good prompt, add context so Copilot understands the purpose of the sorting.
+    You might say: 
 
-To get started, format your data in a [supported format](https://support.microsoft.com/topic/format-data-for-copilot-in-excel-1604c8eb-57f1-4db1-8363-d53336228c65) and select the **Copilot** button in the ribbon. Then, tell Copilot how you'd like to manipulate the table to better view portions of your data.
+    ```
+    Sort this table to identify the most impactful salesperson.
+    ```
 
-In the following example, we start with a simple prompt and add elements along the way. Follow along with the example using your own data.
+    To improve the prompt further, specify the source or reference point for the data.
+    For instance: 
 
-## Let's get crafting
+    ```
+    Use the data in Table1 from the current Excel worksheet.
+    ```
 
-<!-- First, download **_[Fabrikam Q1 marketing campaigns.xlsx](https://go.microsoft.com/fwlink/?linkid=2269124)_** and save the file to your **OneDrive folder** if you haven't yet done so. -->
+    To make it the best prompt, include expectations about how the table should be organized and what the output should highlight.
+    You could say: 
 
-In Excel, open the **Fabrikam Q1 marketing campaigns.xlsx** spreadsheet located in the **OneDrive\\CopilotDocs\\M03-Edit-transform-content-with-microsoft-copilot-microsoft-365** folder. Open the **Copilot** pane by selecting the Copilot icon in the ribbon's **Home** tab. Enter the prompts below and follow along.
+    ```
+    Sort the data by net revenue, and highlight both the top and bottom campaign owners based on their performance.
+    ```
 
-Enter the below prompt:
+    Enter the below crafted prompt: 
 
-```
-Sort this table.
-```
+    ```
+    Sort this table [Table1] to look for the most impactful salesperson and highlight the top and bottom campaign owners based off of net revenue.
+    ```
 
-In this simple prompt, you start with the basic **Goal**: _to sort and filter an Excel table_. However, there's no indication how you want the data sorted and which field you want to filter.
+    This prompt requires multiple steps to execute, a prompting technique called **chaining** where you ask Copilot to perform sequential, back-to-back commands to achieve a single goal.
 
-| Element | Example |
-| :------ | :------- |
-| **Basic prompt:** Start with a **Goal** | **_Sort this table..._** |
-| **Good prompt:** Add **Context** | Adding **Context** can help Copilot understand what the slides are for and what topic to focus on. _"...to look for the most impactful salesperson."_ |
-| **Better prompt:** Specify **Source(s)** | The **Source** for this prompt is assumed to be the table we're working with in Excel. _"...this table [Table1]..."_ |
-| **Best prompt:** Set clear **Expectations** | Lastly, adding **Expectations** can help Copilot understand how you want the table sorted, filtered, and presented. _"and highlight the top and bottom campaign owners based off of net revenue."_ |
+    **First prompt**: Sort this table [Table1] to look for the most impactful salesperson.
 
-Enter the below crafted prompt: 
+    **Second Prompt**: highlight the top and bottom campaign owners based off of net revenue
 
-```
-Sort this table [Table1] to look for the most impactful salesperson and highlight the top and bottom campaign owners based off of net revenue.
-```
-
-This prompt requires multiple steps to execute, a prompting technique called **chaining** where you ask Copilot to perform sequential, back-to-back commands to achieve a single goal.
-
-**First prompt**: Sort this table [Table1] to look for the most impactful salesperson.
-
-**Second Prompt**: highlight the top and bottom campaign owners based off of net revenue
-
-Copilot has all the info it needs to give you a solid answer, thanks to the **Goal**, **Context**, **Source**, and **Expectations** in this prompt.
+    Copilot has all the info it needs to give you a solid answer, thanks to the **Goal**, **Context**, **Source**, and **Expectations** in this prompt.
 
 ## Explore more
 
 Try out these simple prompts to highlight, sort, and filters your data and add other elements to improve your results:
 
-- Bold the top 10 values in the Sales column.
+```
+Bold the top 10 values in the Sales column.
+```
 
-- Highlight the highest values in Units Sold.
+```
+Highlight the highest values in Units Sold.
+```
 
-- Sort engagement rate from smallest to largest.  
+```
+Sort engagement rate from smallest to largest.  
+```
 
-- Filter to items that are due next week.
+```
+Filter to items that are due next week.
+```
 
-# Rewrite messages and replies for tone using Microsoft 365 Copilot in Outlook
 
-Have an important email to write and want to feel confident that it effectively conveys your intended message? With Copilot in Outlook, you can get helpful suggestions on how to adjust the tone, clarity, and reader sentiment before you hit send.
+### Exercise 4: Rewrite messages and replies for tone using Microsoft 365 Copilot in Outlook
+
+In this exercise, you'll use Microsoft 365 Copilot in Outlook to improve the tone, clarity, and professionalism of your emails. You'll explore the Copilot Coaching and Draft tools, practicing how to guide the AI with clear improvement goals, tone adjustments, and structured expectations to produce more effective communication.
+
 
 1. In Outlook, select **Home > New Mail > Mail**. Type your email message.
 
 1. Select the **Copilot** icon from the toolbar. Choose **Coaching** from the drop-down menu.
 
-    ![Screenshot of the menu option for Coaching by Copilot in New Outlook.](https://labstoragesupport.blob.core.windows.net/lessoncontent/ms-4005-ai-led/media/edit_copilot-email-coaching-outlook.png)
+    ![Screenshot of the menu option for Coaching by Copilot in New Outlook.](media/edit_copilot-email-coaching-outlook.png)
 
 1. Copilot reviews your email and offer suggestions on improving the tone, clarity, and reader sentiment.
 
 1. If you like any or all of the suggestions, incorporate the feedback into the draft. When you're satisfied, send your email.
 
-    ![Screenshot showing Copilot's suggestions for tone, clarity, and reader sentiment in new Outlook.](https://labstoragesupport.blob.core.windows.net/lessoncontent/ms-4005-ai-led/media/edit_copilot-rewrite-email-outlook.png)
+    ![Screenshot showing Copilot's suggestions for tone, clarity, and reader sentiment in new Outlook.](media/edit_copilot-rewrite-email-outlook.png)
 
-In the following example, we start with a simple prompt and add elements along the way. Follow along with the example after using Copilot to draft an email.
+1. In the following example, we start with a simple prompt and add elements along the way. Follow along with the example after using Copilot to draft an email.
 
-## Let's get crafting
+1. First, click the Copilot icon on the toolbar and click **Draft**. 
 
-First, click the Copilot icon on the toolbar and click **Draft**. 
+1. In the box, enter the below prompt asking Copilot in Outlook to draft a fictitious email. Once complete, click **Keep it** in the Copilot box. 
 
-In the box, enter the below prompt asking Copilot in Outlook to draft a fictitious email. Once complete, click **Keep it** in the Copilot box. 
+    ```
+    Draft a short product update announcement for customers about our latest software release. Highlight key new features, improvements, and how they benefit users.
+    ``` 
 
-```
-Draft a short product update announcement for customers about our latest software release. Highlight key new features, improvements, and how they benefit users.
-``` 
 
-![Draft fictitious email](https://labstoragesupport.blob.core.windows.net/lessoncontent/ms-4005-ai-led/media/DraftFakeEmail.png)
+1. Click the Copilot icon again and select **Draft**. Enter the below prompt in the box that appears. Click **Discard** once you've read the results. 
 
-Click the Copilot icon again and select **Draft**. Enter the below prompt in the box that appears. Click **Discard** once you've read the results. 
 
-```
-Review this email and make suggestions to improve it.
-```
+    In this simple prompt, you start with the basic **Goal**: _to improve the email_. However, there isn't much detail about what kind of improvements are needed.  
 
-In this simple prompt, you start with the basic **Goal**: _to improve the email_. However, there isn't much detail about what kind of improvements are needed.  
+    Start with a basic prompt by clearly stating your goal.
+    For example: 
 
-| Element | Example |
-| :------ | :------- |
-| **Basic prompt:** Start with a **Goal** | **_Make this email more formal._** |
-| **Good prompt:** Add **Context** | Adding **Context** helps Copilot understand the purpose of the email and what kind of improvements are needed. _"...so it sounds more professional and polished while maintaining a warm and engaging tone."_ |
-| **Better prompt:** Specify **Source(s)** | The **Source** for this prompt is the email you've already drafted in Outlook. _"...this email."_ |
-| **Best prompt:** Set clear **Expectations** | Adding **Expectations** helps Copilot understand the desired changes. _"Ensure the email is professional, concise, and highlights the key details of the product update clearly."_ |
+    ```
+    Make this email more formal.
+    ```
 
-Click the Copilot icon again and select **Draft**. Enter the below crafted prompt in the box that appears.
+    To create a good prompt, add context that explains what you want improved and why.
+    You might say: 
 
-```
-Make this email more formal. Ensure the email is professional, concise, and highlights the key details of the product update clearly.
-``` 
+    ```
+    Please revise this email so it sounds more professional and polished while maintaining a warm and engaging tone.
+    ```
 
-This prompt gives Copilot everything it needs to come up with a good answer, including the **Goal**, **Context**, **Source**, and **Expectations**.
+    To strengthen the prompt, identify the source you're referring to.
+    For instance: 
 
-## Assessment Questions
+    ```
+    Use the email I’ve already drafted in Outlook as the starting point.
+    ```
 
-Question 1
-Which of the following best describes the “Visualize as a table” feature in Microsoft Word using Copilot?
+    To make it the best prompt, set clear expectations for how the revised email should be written.
+    You could say: 
 
-A) It creates charts from numerical data.
-B) It reformats tables into paragraphs.
-C) It converts selected text into a structured table.
-D) It inserts a screenshot of a table from Excel.
+    ```
+    Ensure the email is professional, concise, and highlights the key details of the product update clearly.
+    ```
 
-Correct Answer: C
+    Click the Copilot icon again and select **Draft**. Enter the below crafted prompt in the box that appears.
 
-Question 2
-What’s the benefit of adding Expectations to a Copilot prompt when transforming text?
+    ```
+    Make this email more formal. Ensure the email is professional, concise, and highlights the key details of the product update clearly.
+    ``` 
 
-A) It helps reduce Copilot’s response time.
-B) It tells Copilot how to format or structure the output.
-C) It allows Copilot to access third-party plugins.
-D) It bypasses the need to reference source files.
-
-Correct Answer: B
-
-Question 3
-In PowerPoint, how can you prompt Copilot to improve your slides?
-
-A) "Rearrange all slides alphabetically."
-B) "Add speaker notes automatically."
-C) "Add a slide about the history of Olympic Soccer."
-D) "Install visual effects plugin."
-
-Correct Answer: C
-
-Question 4
-What does Coaching by Copilot in Outlook help you improve?
-
-A) Email encryption settings
-B) The tone, clarity, and sentiment of your email
-C) Spam filtering rules
-D) Scheduling of email delivery
-
-Correct Answer: B
-
-Question 5
-Which prompt is the most complete when using Copilot in Excel to highlight top performers?
-
-A) “Sort this sheet.”
-B) “Highlight top sales.”
-C) “Sort Table1 by revenue and highlight top 3 campaign owners based on net revenue.”
-D) “Bold some rows.”
-
-Correct Answer: C
-
+    This prompt gives Copilot everything it needs to come up with a good answer, including the **Goal**, **Context**, **Source**, and **Expectations**.
