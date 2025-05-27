@@ -1,5 +1,5 @@
 
-# Course Title: Craft effective prompts for Microsoft 365 Copilot
+# Craft effective prompts for Microsoft 365 Copilot
 
 ## Lesson 1: Get started with Microsoft 365 Copilot
 

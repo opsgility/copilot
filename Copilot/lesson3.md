@@ -1,5 +1,5 @@
 
-# Course Title: MS-4005: Craft effective prompts for Microsoft 365 Copilot
+# MS-4005: Craft effective prompts for Microsoft 365 Copilot
 
 ## Lesson 3: Transforming and enhancing data with Microsoft Copilot
 
