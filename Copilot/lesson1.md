@@ -50,7 +50,7 @@ Follow the steps below to upload all files needed to **OneDrive**:
 
 3. In **OneDrive**, in the top-left corner, select **+ Add new** > **Folder upload**.
 
-    [![Screenshot of add new folder](https://labstoragesupport.blob.core.windows.net/lessoncontent/ms-4005-ai-led/media/add_new.png)](https://labstoragesupport.blob.core.windows.net/lessoncontent/ms-4005-ai-led/media/add_new.png#lightbox)
+    [](media/add_new.png)
 
 4. In **File Explorer**, select **Desktop** and open the **CopilotDocs** folder and click Upload again to upload the folder to OneDrive.
 
