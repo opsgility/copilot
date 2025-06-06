@@ -1,7 +1,7 @@
 
-# 🎓 Prompting Intro for Higher Education Leaders – School District of Indian River County (SDIRC) Edition
+# 🎓 Prompting Intro for Higher Education Leaders – San Deigo & Imperial Regional Consortium (SDIRC) Edition
 
-**Audience**: School District of Indian River County Administrators  
+**Audience**: San Deigo & Imperial Regional Consortium Administrators  
 **Skill Level**: Intermediate  
 **Tools Required**: Microsoft Copilot
 
@@ -72,7 +72,7 @@ Try each prompt in order to see how the prompt evolves with more specificity.
 - ✅ Best:
 
   ```plaintext
-  Summarize this institutional research report for School District of Indian River County's Board of Trustees. Highlight strategic implications and key decision points.
+  Summarize this institutional research report for San Deigo & Imperial Regional Consortium of Trustees. Highlight strategic implications and key decision points.
   ```
 
 ---
@@ -96,13 +96,13 @@ Try each prompt in order to see how the prompt evolves with more specificity.
 - ⚠️ Better:
 
   ```plaintext
-  Draft a memo announcing the new sustainability initiative at School District of Indian River County.
+  Draft a memo announcing the new sustainability initiative at San Deigo & Imperial Regional Consortium.
   ```
 
 - ✅ Best:
 
   ```plaintext
-  Write a 1-page internal memo from the Chancellor to department heads announcing School District of Indian River County's sustainability plan. Include timeline, impact, and who to contact.
+  Write a 1-page internal memo from the Chancellor to department heads announcing San Deigo & Imperial Regional Consortium's sustainability plan. Include timeline, impact, and who to contact.
   ```
 
 
@@ -124,13 +124,13 @@ Try each prompt in order to see how the prompt evolves with more specificity.
 - ⚠️ Better:
 
   ```plaintext
-  Write a vision statement for SDIRC’s next 5 years.
+  Write a vision statement for San Deigo & Imperial Regional Consortium's next 5 years.
   ```
 
 - ✅ Best:
 
   ```plaintext
-  As Chancellor of SDIRC, write a 5-year strategic vision statement focusing on equity, enrollment, and digital transformation. Use an inspiring tone.
+  As Chancellor of San Deigo & Imperial Regional Consortium, write a 5-year strategic vision statement focusing on equity, enrollment, and digital transformation. Use an inspiring tone.
   ```
 
 #### 🖼️ Image Prompt:
@@ -166,7 +166,7 @@ Try each prompt in order to see how the prompt evolves with more specificity.
 - ✅ Best:
 
   ```plaintext
-  As a Dean at SDIRC reviewing grant proposals, assess this draft for clarity, completeness, and funding potential. Suggest revisions and summarize strengths and weaknesses.
+  As a Dean at San Deigo & Imperial Regional Consortium reviewing grant proposals, assess this draft for clarity, completeness, and funding potential. Suggest revisions and summarize strengths and weaknesses.
   ```
 
 ---
@@ -224,13 +224,13 @@ Try each prompt in order to see how the prompt evolves with more specificity.
 
 - ✅ Best:
   ```plaintext
-  Create a 2-day offsite leadership retreat agenda for SDIRC deans. Include team-building activities, keynote themes, and local venues.
+  Create a 2-day offsite leadership retreat agenda for San Deigo & Imperial Regional Consortium deans. Include team-building activities, keynote themes, and local venues.
   ```
 
 #### 🖼️ Image Prompt:
 
 ```plaintext
-Design a flyer image for a university leadership retreat with collaboration, nature, and SDIRC branding.
+Design a flyer image for a university leadership retreat with collaboration, nature, and San Deigo & Imperial Regional Consortium branding.
 ```
 
 
@@ -261,12 +261,12 @@ Try each prompt in order to see how the prompt evolves with more specificity.
 - ✅ Best:
 
   ```plaintext
-  Summarize key findings from this SDIRC department budget spreadsheet for a trustee meeting. Highlight growth areas, cuts, and explain major items simply.
+  Summarize key findings from this San Deigo & Imperial Regional Consortium department budget spreadsheet for a trustee meeting. Highlight growth areas, cuts, and explain major items simply.
   ```
 
 #### 📊 Chart Prompt:
 
 ```plaintext
-Create a bar chart comparing SDIRC departmental budgets from 2023 to 2024 with clear labels and color-coding.
+Create a bar chart comparing San Deigo & Imperial Regional Consortium departmental budgets from 2023 to 2024 with clear labels and color-coding.
 ```
 
