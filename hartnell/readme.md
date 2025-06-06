@@ -35,7 +35,7 @@ The following exercises use sample data files with Microsoft Copilot.
 
 Download the following and unzip to your computers desktop (or another convienent location).
 
-[Download Here](https://github.com/opsgility/copilot/raw/refs/heads/main/Hartnell/sample-data.zip) 
+[Download Here](https://github.com/opsgility/copilot/raw/refs/heads/main/hartnell/sample-data.zip) 
 
 
 
