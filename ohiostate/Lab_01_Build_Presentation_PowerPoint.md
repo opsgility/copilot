@@ -31,8 +31,6 @@ By the end of this Lab, you'll be able to create a new presentation based on a W
 
     [![Screenshot of add new folder](media/add_new.png)](media/add_new.png)
 
-1. When prompted, name the folder `CopilotTraining`
-
 1. In **File Explorer**, select the folder where you extracted the samples files too, and click **Upload** to upload the folder to OneDrive.
 
 1. Leave **Edge** open and move on to the next task.
