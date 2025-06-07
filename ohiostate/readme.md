@@ -29,9 +29,8 @@ The following exercises use sample data files with Microsoft Copilot.
 
 Download the following and unzip to your desktop (or another convenient location).
 
-```
-https://github.com/opsgility/copilot/raw/refs/heads/main/ohiostate/sample-data.zip
-```
+[Sample Data](https://github.com/opsgility/copilot/raw/refs/heads/main/ohiostate/sample-data.zip)
+
 The zip contains the following sample files that will be used in this exercise.
 
 - `OSU_AdmissionsTrends2024.txt`
