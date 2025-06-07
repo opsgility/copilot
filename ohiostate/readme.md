@@ -232,7 +232,7 @@ Try each prompt in order to see how the prompt evolves with more specificity.
 #### 🖼️ Image Prompt:
 
 ```plaintext
-Design a flyer image for a hospital leadership retreat with collaboration, nature, and OSU Wexner Medical Center branding.
+Design a flyer image for a hospital leadership retreat with collaboration, nature, and OSU Wexner Medical Center branding in the middle with the event information below the logo. No need to add people focus on the scenery.
 ```
 
 ---
