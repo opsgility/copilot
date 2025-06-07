@@ -25,15 +25,17 @@ By the end of this Lab, you'll be able to create a new presentation based on a W
     https://onedrive.live.com/login
     ```
 
-2. When prompted, loggin with your Microsoft Credentials. 
+1. When prompted, loggin with your Microsoft Credentials. 
 
-3. In **OneDrive**, in the top-left corner, select **+ Add new** > **Folder upload**.
+1. In **OneDrive**, in the top-left corner, select **+ Create or upload** > **Folder upload**.
 
     [![Screenshot of add new folder](media/add_new.png)](media/add_new.png)
 
-4. In **File Explorer**, select the folder where you extracted the samples files too, and click **Upload** to upload the folder to OneDrive.
+1. When prompted, name the folder `CopilotTraining`
 
-5. Leave **Edge** open and move on to the next task.
+1. In **File Explorer**, select the folder where you extracted the samples files too, and click **Upload** to upload the folder to OneDrive.
+
+1. Leave **Edge** open and move on to the next task.
 
 
 ## Sample file
