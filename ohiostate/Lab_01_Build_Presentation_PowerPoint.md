@@ -13,9 +13,9 @@ By the end of this Lab, you'll be able to create a new presentation based on a W
 
 1. Download the following zip file to your computer and extract it locally.
 
-```
-[Sample Files])(https://github.com/opsgility/copilot/raw/refs/heads/main/ohiostate/SampleFiles.zip)
-```
+   [Sample Files](https://github.com/opsgility/copilot/raw/refs/heads/main/ohiostate/SampleFiles.zip)
+
+
 
 1. Follow the steps below to upload all files needed to **OneDrive**:
 
