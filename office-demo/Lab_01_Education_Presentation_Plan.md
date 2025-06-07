@@ -10,6 +10,13 @@ You are an assistant provost at **Northwest Lakes University**, preparing a pres
 - **Retention_Analytics_Summary_2024.xlsx**
 - **University_Grant_Strategy_Narrative.docx**
 
+- Download from
+
+```
+https://github.com/opsgility/copilot/raw/refs/heads/main/office-demo/sample-data.zip
+```
+
+
 ### Objective:
 Use Microsoft Copilot in PowerPoint to:
 - Generate a presentation from a Word file
