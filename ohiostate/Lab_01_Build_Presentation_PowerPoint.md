@@ -19,7 +19,7 @@ By the end of this Lab, you'll be able to create a new presentation based on a W
 
 1. Follow the steps below to upload all files needed to **OneDrive**:
 
-1. Open **Microsoft Edge** then navigate to the below URL. 
+1. Open a web browser then navigate to the below URL. 
 
     ```
     https://onedrive.live.com/login
@@ -33,7 +33,7 @@ By the end of this Lab, you'll be able to create a new presentation based on a W
 
 1. In **File Explorer**, select the folder where you extracted the samples files too, and click **Upload** to upload the folder to OneDrive.
 
-1. Leave **Edge** open and move on to the next task.
+1. Leave your browser open and move on to the next task.
 
 
 ## Sample file
