@@ -6,8 +6,8 @@ You are a data analyst in the Office of Institutional Research at **Northwest La
 ---
 
 ## Files Provided:
-- **Retention_Analytics_Summary_2024.xlsx**
-- **Grant_Enrollment_Targets_2025.xlsx**
+
+- **NorthwestLakes_Enrollment_Data.xlsx**
 
 ### Objective:
 Use Microsoft Copilot in Excel to:
@@ -20,8 +20,9 @@ Use Microsoft Copilot in Excel to:
 
 ### Exercise 1 - Explore the Data
 Prompt:
+
 ```
-Summarize this dataset and highlight key enrollment trends across academic programs.
+Summarize the graduation rates by year per program on the dataset
 ```
 Select "Add to new sheet".
 
@@ -31,43 +32,8 @@ Prompt:
 Create a line chart showing student retention rates by semester from 2020 to 2024.
 ```
 
-### Exercise 3 - Compare Program Growth
+### Exercise 3 - Analyze Demographic Distribution
 Prompt:
 ```
-Generate a bar chart comparing enrollment in STEM vs Liberal Arts programs by year.
+Identify enrollment trends based on student demographics such as age.
 ```
-Follow-up:
-```
-Summarize which program area has shown the highest growth since 2022.
-```
-
-### Exercise 4 - Analyze Demographic Distribution
-Prompt:
-```
-Identify enrollment trends based on student demographics such as age and ethnicity.
-```
-
-### Exercise 5 - Correlate Grant Funding and Enrollment
-Prompt:
-```
-Compare projected enrollment targets in /Grant_Enrollment_Targets_2025.xlsx to actual retention data. Identify gaps.
-```
-
-### Exercise 6 - Generate Key Insights
-Prompt:
-```
-Summarize 3 key takeaways that should be shared with cabinet leadership.
-```
-
-### Exercise 7 - Share via Email
-Open Outlook and paste your Copilot-generated summary.
-Prompt:
-```
-Draft an email to the cabinet summarizing enrollment insights and attach the charts.
-```
-
----
-
-With this lab, you’ve gained experience using Excel and Copilot to support institutional planning and communicate data-driven decisions.
-
-**End of Lab 3**

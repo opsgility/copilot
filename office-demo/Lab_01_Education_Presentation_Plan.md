@@ -41,24 +41,7 @@ Prompt:
 Add a welcome slide for the trustees that includes an inspiring quote about education and an image of diverse students on campus.
 ```
 
-### Exercise 3 - Insert Visual Aid
-Prompt:
-```
-Replace the chart on slide 3 with a visual from Retention_Analytics_Summary_2024.xlsx that shows student retention trends by demographic group.
-```
 
-### Exercise 4 - Refine Slide Content
-Navigate to the budget summary slide.
-Prompt:
-```
-Make this content more concise and formal for a board audience.
-```
-
-### Exercise 5 - Reorganize and Polish
-Prompt:
-```
-Organize this presentation logically and add transitions between major sections.
-```
 
 ### Optional - Draft a Review Email
 Launch Outlook.
@@ -67,8 +50,4 @@ Prompt:
 Draft an email to the provost requesting review and feedback on the attached board presentation.
 ```
 
----
 
-By completing this lab, you've transformed administrative planning documents into a strategic presentation aligned with stakeholder needs.
-
-**End of Lab 1**
