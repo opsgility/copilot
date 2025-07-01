@@ -4,7 +4,7 @@
 ### Scenario
 Imagine you're an economist at the FCC's Office of Economics and Analytics. Your team is preparing for a Commission meeting where you need to present the economic impact analysis of the proposed 6 GHz unlicensed rules. Your goal is to create a compelling presentation that highlights consumer benefits, industry costs, and policy recommendations while ensuring it adheres to FCC's professional standards. You've already developed comprehensive economic models and want to use that content when preparing for your briefing.
 
-By the end of this lab, you'll be able to create a new presentation based on economic analysis documents, insert relevant charts, edit technical content for Commissioner audiences, organize complex economic data, and prepare briefing materials for Commission review.
+By the end of this lab, you'll be able to create a new presentation based on economic analysis documents, insert relevant images, edit technical content for different audiences, and organize your presentation.
 
 ### Getting Started
 
@@ -27,6 +27,7 @@ Follow these steps to upload all files needed to **OneDrive**:
 4. In a new instance of **File Explorer**, select **This PC** > **Local Disk (C:)** and open the **OEA-ResourceFiles** folder.
 5. Select all files within the **OEA-ResourceFiles** folder, then drag and drop them into your OneDrive folder.
 6. When the upload is complete, you should see **Uploaded 4 items to My files**.
+7. It will take awhile for the files to index. If you are trying to reference a newly uploaded file in Copilot, it may not appear for a 10-15 minutes.
 
 ---
 
@@ -34,73 +35,55 @@ Follow these steps to upload all files needed to **OneDrive**:
 
 1. Open PowerPoint and start a new presentation.
 
-2. Select the **Copilot** icon, then use Copilot to generate a draft presentation using the following prompt:
+2. Select the **Copilot** icon. Enter the following prompt then add a forward slash (/) followed by the name of the file **(6 GHz Economic Impact Model Data.docx)**. If the file doesn't populate, select the plus button then **Attach** and navigate to the document in your OneDrive folder. Press **Enter**.
     
     ```
     Create a Commission briefing presentation about the economic impact of 6 GHz unlicensed rules based on
     ```
 
-3. In the prompt dialog box, enter a forward slash (/) followed by the name of the file **(6 GHz Economic Impact Model Data.docx)**. If the file doesn't populate, select the plus button then **Attach** and navigate to the document in your OneDrive folder.
+3. Copilot displays a presentation outline showing potential slides including economic analysis, consumer benefits, industry costs, and policy recommendations. It then generates actual slides. Review the slides.
 
-4. Copilot displays a presentation outline showing potential slides including economic analysis, consumer benefits, industry costs, and policy recommendations. Review the suggested topics and select **Generate slides**.
-
-5. Review the slides and select **Keep it** to continue.
-
-6. The presentation provides a solid foundation, but let's enhance it for Commissioner-level delivery.
+4. The presentation provides a solid foundation, but let's enhance it for Commissioner-level delivery.
 
 ## Exercise 2 - Create Executive Summary Slide
 
 Since this presentation will be given to busy Commissioners, let's create an executive summary slide that captures the key economic findings upfront.
 
-1. Change to **View -> Normal** if necessary, then return to **Home** ribbon.
-
-2. Open the Copilot pane and enter:
+1. Enter the following in the Copilot pane.
 
      ```
-     Create an executive summary slide highlighting the three most important economic findings from the 6 GHz analysis. Include quantified benefits and costs with clear policy implications.
+     Create an executive summary slide highlighting the three most important economic findings from the 6 GHz analysis. Include quantified benefits and costs with clear policy implications. 
      ```
 
-3. Copilot responds with key economic metrics and policy conclusions. Review the suggestions and select the most appropriate option.
+2. Copilot then generates the slide as described in the prompt.
 
-4. Enter the following prompt to position this strategically:
+## Exercise 3 - Insert an Image
 
-    ```
-    Insert this executive summary as the second slide in the presentation, right after the title slide.
-    ```
+Let's enhance our presentation with relevant imagery.
 
-## Exercise 3 - Insert Economic Data Visualization
-
-Economic presentations need compelling data visualizations. Let's enhance our presentation with relevant charts and graphics.
-
-1. Navigate to the slide discussing consumer benefits.
+1. Navigate to the title slide. 
 
 2. Enter the following prompt in the Copilot pane:
 
     ```
-    Replace the current image with a chart showing consumer welfare gains over a 10-year period, highlighting the $183 billion in benefits.
+    Add an image of an economic chart to the current slide. 
     ```
 
-3. Copilot opens the **Designer** feature and creates visualization options that match your economic data.
-
-4. Select **Insert** your preferred chart option.
-
-5. Adjust the chart size and position to best fit the slide layout.
+3. You will see the title slide change to include an image of an economic chart. 
 
 ## Exercise 4 - Adapt Technical Content for Commissioners
 
 Economic analysis often contains technical language that needs to be adapted for policy makers. Let's refine the content.
 
-1. Navigate to a slide with technical economic terminology.
+1. Navigate to a slide with text.
 
 2. In the Copilot pane, enter:
     
     ```
-    Rewrite this slide content to be accessible to policy makers while maintaining analytical rigor. Focus on policy implications rather than technical methodology.
+    Edit this text to make it more conversational.
     ```
 
-3. Copy the existing technical text and paste it into the Copilot prompt dialog, then select **Send**.
-
-4. Review Copilot's suggestions, then replace the slide text with the more accessible version and make necessary adjustments.
+3. Review Copilot's suggestions, then replace the slide text with the more accessible version and make necessary adjustments.
 
 ## Exercise 5 - Organize Economic Analysis Flow
 
@@ -109,16 +92,14 @@ Economic presentations need logical flow from analysis to recommendations. Use C
 1. In the Copilot pane, enter:
 
     ```
-    Organize this presentation to follow economic analysis best practices: problem statement, methodology, findings, costs and benefits, and policy recommendations.
+    Organize this presentation to follow economic analysis best practices
     ```
 
-2. Copilot responds with organizational suggestions for each slide, ensuring logical progression from economic theory to policy application.
+2. Copilot responds with organizational suggestions for each slide. Rearrange slides according to Copilot's recommendations or request additional organizational options.
 
-3. Rearrange slides according to Copilot's recommendations or request additional organizational options.
+3. Ensure that your presentation has a logical sequence and smooth transitions between slides.
 
-4. Ensure smooth transitions between economic concepts and policy implications.
-
-## Exercise 6 - Add Comparative Analysis Slide
+<!-- ## Exercise 6 - Add Comparative Analysis Slide
 
 Let's enhance the presentation with auction performance data for context.
 
@@ -130,9 +111,9 @@ Let's enhance the presentation with auction performance data for context.
 
 2. Reference the auction document by typing: **/Auction 110 Bidding Data Analysis.docx**
 
-3. Review the comparative analysis suggestions and select **Insert** to add this contextual slide.
+3. Review the comparative analysis suggestions and select **Insert** to add this contextual slide. -->
 
-## (Optional) Exercise 7 - Send Draft for OEA Director Review
+<!-- ## (Optional) Exercise 6 - Send Draft for OEA Director Review
 
 1. Launch Microsoft Outlook and select **New mail**.
 
@@ -146,7 +127,7 @@ Let's enhance the presentation with auction performance data for context.
 
 4. Select **Draft with Copilot**.
 
-5. Review the email draft, attach your presentation, and send to the intended recipient.
+5. Review the email draft, attach your presentation, and send to the intended recipient. -->
 
 You're now ready to deliver a compelling economic analysis presentation that will inform Commission decision-making with rigorous data and clear policy recommendations!
 

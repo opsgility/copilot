@@ -14,15 +14,13 @@ Let's create a comprehensive economic impact report using the analysis you've al
 
 1. Open a new Word document.
 
-2. Select the on-canvas **Copilot** experience at the top of the blank document.
+2. Select the on-canvas Copilot experience at the top of the blank document.
 
-3. Enter the following prompt:
+3. Enter the following prompt then add a forward slash (/) followed by the name of the file **(6 GHz Economic Impact Model Data.docx)**.
     
     ```
     Create a comprehensive economic impact report that includes an executive summary, methodology overview, consumer welfare analysis, industry cost assessment, net benefit calculation, and policy recommendations. Use the linked document as the primary analytical foundation.
     ```
-
-4. Add the document reference by entering: **/6 GHz Economic Impact Model Data.docx**
 
 5. Select **Generate**.
 
@@ -54,7 +52,7 @@ Economic data is often more digestible in tabular format. Let's transform our co
 
 2. Select **Keep it** to add this section to your report.
 
-3. Highlight the cost-benefit list that was generated.
+3. Highlight the cost-benefit section that was generated.
 
 4. Select the on-canvas **Copilot** icon to the left of the text.
 
@@ -70,7 +68,21 @@ Economic data is often more digestible in tabular format. Let's transform our co
 
 8. Review the table format and make any necessary adjustments.
 
-## Exercise 3 - Integrate Market Analysis Data
+## Exercise 3 - Summarize the document
+
+Let's add a summary to the end of the document.
+
+1. Position your cursor at the bottom of the document. Select the on-canvas **Copilot** icon on the left. Enter the following prompt:
+
+    ```
+    Summarize this document. Highlight the top three points made.
+    ```
+
+2. Click **Generate** then **Keep it**. 
+
+3. Save your document for future reference. 
+
+<!-- ## Exercise 3 - Integrate Market Analysis Data
 
 Let's enhance our report by incorporating broadband market competition data to provide policy context.
 
@@ -170,6 +182,6 @@ Finally, let's ensure the document meets FCC standards and is ready for distribu
 
 4. The document is now ready for OEA Director review and subsequent Commission consideration.
 
-Your comprehensive economic impact report provides the analytical foundation needed for informed regulatory decision-making. The clear structure, accessible language, and rigorous analysis will support effective policy development and stakeholder communication.
+Your comprehensive economic impact report provides the analytical foundation needed for informed regulatory decision-making. The clear structure, accessible language, and rigorous analysis will support effective policy development and stakeholder communication. -->
 
 **End of Lab 2**
