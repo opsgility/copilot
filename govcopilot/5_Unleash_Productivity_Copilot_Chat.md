@@ -14,7 +14,7 @@ Use Copilot Chat to understand the Commission's historical approach to economic 
 
 1. Open Microsoft Teams by navigating to [teams.microsoft.com](https://teams.microsoft.com) or through the desktop application.
 
-2. Select the **Copilot Chat** icon on the left side of the screen.
+2. Select the **Copilot** icon on the left side of the screen.
 
 3. Make sure the toggle at the top is set to **Web**.
 
