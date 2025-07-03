@@ -113,11 +113,11 @@ Let's enhance the presentation with auction performance data for context.
 
 3. Review the comparative analysis suggestions and select **Insert** to add this contextual slide. -->
 
-<!-- ## (Optional) Exercise 6 - Send Draft for OEA Director Review
+## (Optional) Exercise 6 - Send Draft for OEA Director Review
 
 1. Launch Microsoft Outlook and select **New mail**.
 
-2. Select the **Copilot** icon in the email composition window.
+2. Select the **Copilot** then **Draft with copilot**.
 
 3. Enter the following prompt:
 
@@ -125,9 +125,9 @@ Let's enhance the presentation with auction performance data for context.
     Draft an email to the OEA Director requesting review of the attached 6 GHz economic impact presentation for the upcoming Commission meeting. Use professional government tone and highlight key analytical findings.
     ```
 
-4. Select **Draft with Copilot**.
+4. Click **Generate**.
 
-5. Review the email draft, attach your presentation, and send to the intended recipient. -->
+5. Review the email draft, then select **Keep**. You can then attach your presentation, and send to the intended recipient.
 
 You're now ready to deliver a compelling economic analysis presentation that will inform Commission decision-making with rigorous data and clear policy recommendations!
 

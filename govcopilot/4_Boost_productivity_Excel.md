@@ -158,9 +158,9 @@ Share your economic analysis insights with OEA leadership and Commission staff.
 
 2. Paste the economic analysis summary into the email body.
 
-3. Select the **Copilot** icon in the email window. Select **Draft** if listed.
+3. Select the **Copilot** icon in the email window. Select **Draft with copilot**.
 
-4. Enter the following prompt:
+4. Enter the following prompt then click **Generate**.
 
     ```
     Draft a professional email summarizing key economic findings from Auction 110 analysis, highlighting competitive dynamics, efficiency measures, and policy recommendations for Commission consideration.

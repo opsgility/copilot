@@ -82,7 +82,7 @@ Let's add a summary to the end of the document.
 
 3. Save your document for future reference. 
 
-<!-- ## Exercise 3 - Integrate Market Analysis Data
+## Exercise 3 - Integrate Market Analysis Data
 
 Let's enhance our report by incorporating broadband market competition data to provide policy context.
 
@@ -98,7 +98,7 @@ Let's enhance our report by incorporating broadband market competition data to p
 
 4. Select **Generate** and review the market context analysis.
 
-5. Select **Insert** to include this analysis in your report.
+5. Copy and paste this analysis into your report.
 
 ## Exercise 4 - Create Policy Recommendations Section
 
@@ -110,7 +110,7 @@ Economic analysis should lead to clear policy guidance. Let's develop actionable
     Generate a policy recommendations section based on the economic analysis. Include specific regulatory approaches, implementation considerations, and risk mitigation strategies.
     ```
 
-2. Review the generated recommendations and select **Insert**.
+2. Review the generated recommendations then copy and paste them into your report.
 
 3. Highlight the recommendations section and use the on-canvas Copilot to refine:
 
@@ -132,7 +132,7 @@ Let's enhance the report with international benchmarking context.
 
 2. Review the international comparison content and select **Insert**.
 
-3. Position this section appropriately within your report structure.
+3. Position this section appropriately within your report structure using copy and paste.
 
 ## Exercise 6 - Create Executive Summary
 
@@ -146,7 +146,7 @@ As you complete your report, create a compelling executive summary that captures
     Create an executive summary that highlights the key economic findings: $127 billion net present value, 3.27:1 benefit-cost ratio, and critical policy recommendations. Limit to 250 words for busy policymakers.
     ```
 
-3. Review the generated summary and select **Insert**.
+3. Review the generated summary and select copy and paste it into the report.
 
 4. Make any necessary formatting adjustments to ensure the executive summary stands out.
 
@@ -162,7 +162,7 @@ Economic reports need supporting technical detail for review and validation.
     Create an appendix section that includes key economic assumptions, data sources, sensitivity analysis results, and methodological notes for technical review.
     ```
 
-3. Select **Insert** to add the comprehensive appendix.
+3. Copy and paste the appendix into the report.
 
 4. Format the appendix with clear section headers and ensure it's well-organized for reference.
 
@@ -176,12 +176,12 @@ Finally, let's ensure the document meets FCC standards and is ready for distribu
     Review this document for consistency, professional tone, and completeness. Suggest any improvements needed for Commission-level review.
     ```
 
-2. Review Copilot's suggestions and implement recommended improvements.
+2. Review Copilot's suggestions and implement any recommended improvements that you wish.
 
 3. Save your document with an appropriate filename: "6 GHz Economic Impact Analysis - Final Report"
 
 4. The document is now ready for OEA Director review and subsequent Commission consideration.
 
-Your comprehensive economic impact report provides the analytical foundation needed for informed regulatory decision-making. The clear structure, accessible language, and rigorous analysis will support effective policy development and stakeholder communication. -->
+Your comprehensive economic impact report provides the analytical foundation needed for informed regulatory decision-making. The clear structure, accessible language, and rigorous analysis will support effective policy development and stakeholder communication.
 
 **End of Lab 2**
