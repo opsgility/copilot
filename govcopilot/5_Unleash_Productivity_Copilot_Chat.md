@@ -120,7 +120,11 @@ Compile your preparation materials into a comprehensive reference document.
     Create a comprehensive FAQ document that includes the technical questions about 6 GHz economic analysis and clear, policy-focused responses suitable for Commission briefing preparation.
     ```
 
-    Copilot generates a structured FAQ document with economic analysis questions and responses.
+2. Copilot generates a structured FAQ document with economic analysis questions and responses. Enter the following to generate the output as a word document. 
+
+    ```
+    Create a Word .docx document with this output.
+    ```
 
 2. Open the generated Word document to review content.
 
@@ -130,7 +134,7 @@ Compile your preparation materials into a comprehensive reference document.
     Add sections covering international comparison data, stakeholder impact analysis, and policy implementation considerations to make this a complete briefing preparation resource.
     ```
 
-4. Save the document to OneDrive as **"6 GHz Economic Analysis - Commission Briefing FAQ"**.
+4. Save the updated document to OneDrive as **"6 GHz Economic Analysis - Commission Briefing FAQ"**.
 
 ## Exercise 7 - Prepare Economic Data Presentation Points
 
@@ -176,7 +180,7 @@ Prepare professional follow-up communication for after the briefing.
 
 1. Open Outlook and select **New email**.
 
-2. Select the Copilot icon in the email composition window.
+2. Select the Copilot icon in the email composition window then select **Draft with Copilot**.
 
 3. Enter:
 
@@ -186,7 +190,7 @@ Prepare professional follow-up communication for after the briefing.
 
 4. Review the draft and personalize for appropriate recipients.
 
-## Exercise 10 - Create Analytical Methodology Reference
+<!-- ## Exercise 10 - Create Analytical Methodology Reference
 
 Develop a technical reference for deeper economic analysis questions.
 
@@ -202,7 +206,7 @@ Develop a technical reference for deeper economic analysis questions.
     Add information about quality assurance procedures, peer review processes, and independent validation methods used to ensure analytical rigor and credibility.
     ```
 
-3. Save this technical reference for detailed follow-up questions and ongoing research documentation.
+3. Save this technical reference for detailed follow-up questions and ongoing research documentation. -->
 
 You're now thoroughly prepared to deliver compelling economic analysis briefings that effectively communicate complex analytical findings to Commission decision-makers. Your systematic preparation ensures you can address technical questions, explain methodology clearly, and connect economic insights to policy recommendations with confidence and credibility.
 
