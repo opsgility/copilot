@@ -13,22 +13,26 @@ Imagine you're the lead economist at the FCC's Office of Economics and Analytics
 2. Create a new Team for this collaboration. Select **New Team** from the Chat dropdown menu:
 
     - Team Name:  
+
     ```
     OEA Economic Analysis
     ```
     
     - Description: 
+
     ```
     Coordinating spectrum auction analysis and market research for Commission briefings
     ```
     
     - Team Type: **Private**
+
     - Channel name: 
+
     ```
     Auction 110 Analysis
     ```
 
-    - Add members: select **Skip** for this lab
+3. When prompted to add members, select **Skip**.
 
 3. Select **Start a post** to open the chat window.
 
@@ -40,17 +44,15 @@ Imagine you're the lead economist at the FCC's Office of Economics and Analytics
 
 5. Before posting, select the **Rewrite with Copilot** icon at the bottom of the message box.
 
-6. Choose **Rewrite** to generate an improved version with better structure and clarity.
-
-7. The message needs more technical depth for an economics team. Select **Adjust** then choose **Custom** and enter:
+6. The message needs more technical depth for an economics team. Select **Adjust** then choose **Custom** and enter:
 
     ```
     analytical and professional
     ```
 
-8. Review the enhanced message and select **Replace** when satisfied.
+7. Review the enhanced message and select **Replace** when satisfied.
 
-9. Select **Post** to share with your team.
+8. Select **Post** to share with your team.
 
 ## Exercise 2 - Coordinate Cross-Functional Analysis
 
@@ -62,7 +64,7 @@ Your team responds with enthusiasm and technical suggestions! Now you need to co
     Excellent analytical suggestions from everyone! Now we need to coordinate with the Wireless Bureau for spectrum engineering data and the Enforcement Bureau for compliance patterns. Our economic analysis will be stronger with their technical insights. We should also align our auction assessment with broader market competition analysis.
     ```
 
-2. Use **Rewrite with Copilot** and select **Adjust** with tone:
+2. Use **Rewrite with Copilot** and select **Adjust** then **Custom**. Enter the following to include the tone:
 
     ```
     collaborative and strategic
@@ -74,9 +76,13 @@ Your team responds with enthusiasm and technical suggestions! Now you need to co
 
 You need to schedule a team meeting to review preliminary findings and coordinate final analysis approaches.
 
-1. Open Microsoft Outlook from [outlook.office.com](https://outlook.office.com) or the desktop application.
+1. Open Microsoft Outlook in your browser.
 
-2. Select the **Copilot** icon from the **Home** ribbon to open the Copilot pane.
+    ```
+    https://outlook.office.com
+    ```
+
+2. Select the **Copilot** icon to open the Copilot pane.
 
 3. Ask Copilot to suggest meeting timing:
 
@@ -84,9 +90,9 @@ You need to schedule a team meeting to review preliminary findings and coordinat
     Schedule a 90-minute economic analysis review meeting next week based on my availability. We need time for detailed technical discussion of auction performance metrics and policy recommendations.
     ```
 
-4. Review the suggested time.
+4. Review the suggested time. Answer any questions it replies with. 
 
-5. Select **Edit** to add context to the meeting invite.
+5. Select **Continue in outlook** to begin adding context to the meeting invite.
 
 6. Select **Draft with Copilot** and enter:
 
@@ -108,7 +114,7 @@ You need to schedule a team meeting to review preliminary findings and coordinat
 
 Your team needs additional data support for the comprehensive analysis.
 
-1. Return to Teams and post a new message about analytical resources:
+1. Return to Teams and post a new message in your created Team about analytical resources:
 
     ```
     For our enhanced auction analysis, we'll need access to historical auction databases, international comparison data, and econometric software licenses. Can our research support team help coordinate these resources? We also need the latest broadband deployment data for market context analysis.
@@ -152,7 +158,7 @@ As analysis components come together, coordinate final integration.
     Excellent progress on individual analysis components! Now we need to integrate auction performance data with market competition analysis and policy recommendations. Our Commission briefing should present a cohesive economic story from data to recommendations. Let's ensure our methodology is transparent and our policy conclusions are well-supported by quantitative evidence.
     ```
 
-2. Use **Rewrite with Copilot** with **Professional** tone adjustment.
+2. Use **Rewrite with Copilot** with **Professional** custom tone adjustment.
 
 3. Review and post the integration guidance.
 

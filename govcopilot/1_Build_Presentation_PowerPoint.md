@@ -27,7 +27,7 @@ Follow these steps to upload all files needed to **OneDrive**:
 4. In a new instance of **File Explorer**, select **This PC** > **Local Disk (C:)** and open the **OEA-ResourceFiles** folder.
 5. Select all files within the **OEA-ResourceFiles** folder, then drag and drop them into your OneDrive folder.
 6. When the upload is complete, you should see **Uploaded 4 items to My files**.
-7. It will take awhile for the files to index. If you are trying to reference a newly uploaded file in Copilot, it may not appear for a 10-15 minutes.
+7. It will take awhile for the files to index. If you are trying to reference a newly uploaded file in Copilot, it may not appear for 10-20 minutes.
 
 ---
 
