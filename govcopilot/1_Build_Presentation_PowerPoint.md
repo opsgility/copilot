@@ -24,7 +24,7 @@ These exercises use *sample* Office Documents that must be downloaded first and 
 
 1. Download the following file. After downloading, extract to a folder on your C: drive called OEA-ResourceFiles. 
 
-![OEA-ResourceFiles](https://opsgilitylabs.blob.core.windows.net/govcopilot/OEA-ResourceFiles.zip)
+- [OEA-ResourceFiles](https://opsgilitylabs.blob.core.windows.net/govcopilot/OEA-ResourceFiles.zip)
 
 Follow these steps to upload all files needed to **OneDrive**:
 
