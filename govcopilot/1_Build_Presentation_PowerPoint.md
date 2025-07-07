@@ -14,11 +14,18 @@ By the end of this lab, you'll be able to create a new presentation based on eco
 - Broadband Deployment and Market Analysis Data.xlsx
 - Commission Briefing Template - OEA Analysis.docx
 
-#### Step 1: Activate Microsoft Office 
-1. Click the PowerPoint icon on the Task bar and when prompted login using your FCC credentials.
-2. Accept the defaults for all prompts.
 
-#### Step 2: Uploading Files to OneDrive
+
+## Pre Class Setup: You can skip this step if you did it prior to the class start.
+
+#### Uploading Files to OneDrive
+
+These exercises use *sample* Office Documents that must be downloaded first and then uploaded to OneDrive. 
+
+1. Download the following file. After downloading, extract to a folder on your C: drive called OEA-ResourceFiles. 
+
+![OEA-ResourceFiles](https://opsgilitylabs.blob.core.windows.net/govcopilot/OEA-ResourceFiles.zip)
+
 Follow these steps to upload all files needed to **OneDrive**:
 
 1. Open the **OneDrive** application by entering **OneDrive** in the Windows search bar.
